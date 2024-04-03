@@ -1,0 +1,1 @@
+if com not print log, please modify com port 0x3f8.
